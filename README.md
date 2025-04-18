@@ -1,1 +1,1 @@
-# webdev_lab1
+# Just a development repository with sample files
